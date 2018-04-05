@@ -1,6 +1,7 @@
 ecmaFeatures: {}
 "parserOptions": {
-   "ecmaVersion": 6
+   "ecmaVersion": 6,
+    "parser": "babel-eslint"
  }
 rules:
   no-alert: 0
