@@ -3,3 +3,7 @@ engines:
   eslint:
     enabled: true
     channel: "eslint-4"
+  structure:
+    enabled: false
+  duplication:
+    enabled: false
