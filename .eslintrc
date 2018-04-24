@@ -1,3 +1,4 @@
+parser: babel
 ecmaFeatures: {}
 rules:
   no-alert: 0
@@ -251,4 +252,3 @@ env:
   jquery: true
   amd: true
   commonjs: true
-  parser: babel
